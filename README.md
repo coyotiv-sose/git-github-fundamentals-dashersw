@@ -2,6 +2,8 @@
 
 This is an example playground for Git.
 
+This repository is used as part of SW106 class at Coyotiv School of Software Engineering.
+
 ## Author
 
 Armagan Amcalar
