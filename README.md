@@ -1,5 +1,7 @@
 # :wave: The Basics of GitHub
 
+This is an example playground for Git.
+
 ## Author
 
 Armagan Amcalar
